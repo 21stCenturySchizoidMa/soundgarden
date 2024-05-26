@@ -63,3 +63,51 @@ a{
     text-decoration: none;
     color: #750E21;
 }
+
+#beatles{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:-400px;
+		margin-top:-150px;
+}
+
+#pink-floyd{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:-50px;
+		margin-top:-150px;
+}
+
+#bowie{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:300px;
+		margin-top:-150px;
+}
+
+#yes{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:-400px;
+		margin-top: 300px;
+}
+
+#velvet{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:-50px;
+		margin-top: 300px;
+}
+
+#doors{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:300px;
+		margin-top: 300px;
+}

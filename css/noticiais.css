@@ -63,3 +63,21 @@ a{
     text-decoration: none;
     color: #750E21;
 }
+
+
+
+.main-noticias {
+    display: flex;
+    gap: 40px; /* Espaçamento entre os elementos */
+    margin-top: 100px; /* Move os elementos para baixo */
+    margin-left: 300px; /* Move os elementos para o lado */
+}
+.main-noticias div {
+    flex: 3;
+}
+iframe {
+    width: 80%;
+    height: 500px;
+    border-radius: 20px;
+    border: none
+    }

@@ -63,3 +63,51 @@ a{
     text-decoration: none;
     color: #750E21;
 }
+
+#sgt-pp{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:-400px;
+		margin-top:-150px;
+}
+
+#dark-side{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:-50px;
+		margin-top:-150px;
+}
+
+#terco{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:300px;
+		margin-top:-150px;
+}
+
+#kc{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:-400px;
+		margin-top: 300px;
+}
+
+#pet-sounds{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:-50px;
+		margin-top: 300px;
+}
+
+#aespa{
+    position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:300px;
+		margin-top: 300px;
+}
